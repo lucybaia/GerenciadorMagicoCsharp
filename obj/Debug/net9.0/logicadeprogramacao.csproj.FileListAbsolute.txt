@@ -1,0 +1,14 @@
+C:\Users\mlucy\logicadeprogramacao\bin\Debug\net9.0\logicadeprogramacao.exe
+C:\Users\mlucy\logicadeprogramacao\bin\Debug\net9.0\logicadeprogramacao.deps.json
+C:\Users\mlucy\logicadeprogramacao\bin\Debug\net9.0\logicadeprogramacao.runtimeconfig.json
+C:\Users\mlucy\logicadeprogramacao\bin\Debug\net9.0\logicadeprogramacao.dll
+C:\Users\mlucy\logicadeprogramacao\bin\Debug\net9.0\logicadeprogramacao.pdb
+C:\Users\mlucy\logicadeprogramacao\obj\Debug\net9.0\logicadeprogramacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlucy\logicadeprogramacao\obj\Debug\net9.0\logicadeprogramacao.AssemblyInfoInputs.cache
+C:\Users\mlucy\logicadeprogramacao\obj\Debug\net9.0\logicadeprogramacao.AssemblyInfo.cs
+C:\Users\mlucy\logicadeprogramacao\obj\Debug\net9.0\logicadeprogramacao.csproj.CoreCompileInputs.cache
+C:\Users\mlucy\logicadeprogramacao\obj\Debug\net9.0\logicadeprogramacao.dll
+C:\Users\mlucy\logicadeprogramacao\obj\Debug\net9.0\refint\logicadeprogramacao.dll
+C:\Users\mlucy\logicadeprogramacao\obj\Debug\net9.0\logicadeprogramacao.pdb
+C:\Users\mlucy\logicadeprogramacao\obj\Debug\net9.0\logicadeprogramacao.genruntimeconfig.cache
+C:\Users\mlucy\logicadeprogramacao\obj\Debug\net9.0\ref\logicadeprogramacao.dll
